@@ -192,15 +192,27 @@ Certification in HTML, CSS & JavaScript
 
 <br/>
 
+
 <!-- ==================== GITHUB STATS ==================== -->
-<div align="center"><img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20ACTIVITY-6366F1?style=for-the-badge&labelColor=E0E7FF" /></div>
+<div align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%8A%20GITHUB%20ACTIVITY-6366F1?style=for-the-badge&labelColor=E0E7FF" />
+</div>
+
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharnish566&theme=tokyonight&hide_border=true" width="48%"/>
-
+  <img
+    src="https://streak-stats.demolab.com/?user=dharnish566&theme=tokyonight&hide_border=true"
+    width="48%"
+    alt="GitHub Streak Stats"
+  />
 </div>
+
 <br/>
+
+<br/>
+
+
 
 
 <!-- ==================== CONNECT ==================== -->
