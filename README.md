@@ -202,7 +202,7 @@ Certification in HTML, CSS & JavaScript
 
 <div align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=dharnish566&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=dharnish566&theme=tokyonight&hide_border=true&cache_seconds=3600&v=2"
     width="48%"
     alt="GitHub Streak Stats"
   />
